@@ -23,7 +23,7 @@ aside {
         margin: auto;10px;
         width: auto;
         background-color: #0f0075;
-        color: gold;}
-      .whole{
-        font: italic large Garamond;}
+        color: gold;
+        font: italic large Garamond;
+  }
 nav a {color: yellow; }
