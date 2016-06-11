@@ -1,0 +1,29 @@
+body {background-color: #0f0075;
+}
+​
+section{width: 65%;
+        float: left;
+}
+​
+footer{float: left;}
+​
+aside {
+          width: 32%;
+          margin: 72px 10px 10px 10px;
+          display: inline-block;
+          background-color:;
+          padding:;
+          min-height: 100%;
+          float: right;
+          vertical-align: top;
+      }
+.background-color {color:#0f0075 }
+​
+.whole {
+        margin: auto;10px;
+        width: auto;
+        background-color: #0f0075;
+        color: gold;}
+      .whole{
+        font: italic large Garamond;}
+nav a {color: yellow; }
