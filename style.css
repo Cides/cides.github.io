@@ -1,13 +1,10 @@
 body {background-color: #0f0075;
 }
-​
-section{width: 65%;
+​section{width: 65%;
         float: left;
 }
-​
 footer{float: left;}
-​
-aside {
+​aside {
           width: 32%;
           margin: 72px 10px 10px 10px;
           display: inline-block;
