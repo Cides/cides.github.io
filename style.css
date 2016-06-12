@@ -17,7 +17,7 @@ aside {
           float: right;
           vertical-align: top;
       }
-.background-color {color:#0f0075 }
+.background-color {color:#0f0075; }
 ​
 .whole {
         margin: auto;
