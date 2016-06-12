@@ -23,4 +23,4 @@ footer{float: left;}
         color: gold;
         font: italic large Garamond;
   }
-nav a {color: yellow; }
+nav a {color: yellow; padding: 10px; }
